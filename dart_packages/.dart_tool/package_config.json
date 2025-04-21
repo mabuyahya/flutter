@@ -1,0 +1,15 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "dart_packages",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    }
+  ],
+  "generated": "2025-04-19T14:38:35.759163Z",
+  "generator": "pub",
+  "generatorVersion": "3.7.3",
+  "pubCache": "file:///home/mabuyahy/.pub-cache"
+}
